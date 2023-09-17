@@ -15,3 +15,8 @@ let check = true;
 
 check && console.log('I am console log true.')
 
+let a = 5;
+// let aResult = a > 5 ? true : false;
+let aResult = a > 5;
+console.log(aResult)
+
