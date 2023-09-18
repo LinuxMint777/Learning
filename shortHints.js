@@ -24,4 +24,6 @@
  * 12. Template literals.
  * 
  * 13. Tagged Template.
+ * 
+ * 14. Set and WeakSet use.
  */

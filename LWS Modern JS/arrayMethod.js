@@ -91,3 +91,11 @@ class Person {
 }
 let per = new Person('Jahid Hasan', '26')
 per.exmFunc()
+
+
+// Copywithin array method
+
+let xyz = ['one', 'two', 'three', 'four', 'five', 'six', 'seven']
+
+let xyzRst = xyz.copyWithin(3, 2,4)
+console.log(xyz)
