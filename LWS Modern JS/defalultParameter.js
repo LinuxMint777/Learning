@@ -9,7 +9,7 @@ hlw('Jahid Hasan', 20)
 
 function none(){
     console.log(arguments);
-    for(value of arguments){
+    for(let value of arguments){
         console.log(value)
     }
 }

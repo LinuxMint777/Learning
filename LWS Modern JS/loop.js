@@ -25,10 +25,10 @@ do{
 // for in and for of loop for array.
 let arr1 = [2,4,6,8,10]
 
-for(element in arr1){
+for(let element in arr1){
     console.log(`Index: ` + element)
 }
-for(element of arr1){
+for(let element of arr1){
     console.log('Value: '+element)
 }
 
@@ -40,19 +40,19 @@ let obj = {
     rank: '01'
 }
 
-for(props in obj){
+for(let props in obj){
     console.log('Key: '+props)
 }
-for (props in obj){
+for (let props in obj){
     console.log('Value: ' + obj[props])
 }
 
 // for in and for of loop for string.
 let str = 'I love Bangladesh'
 
-for(element in str){
+for(let element in str){
     console.log('Index: '+element )
 }
-for(element of str){
+for(let element of str){
     console.log('Value: ' +element)
 }
