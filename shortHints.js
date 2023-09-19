@@ -28,4 +28,6 @@
  * 14. Set and WeakSet use.
  * 
  * 15. ES11/ JS2020 - globalThis, BigInt, Optional Chaining {obj, arr}, Nullish Coalescing Operator {logical or operator as like}, Dynamic Import, Promise.allSettled.
+ * 
+ * 16. ES2023 Feature: toReversed(), toSpliced(), toSorted(), with() - all method are immutable way.
  */
