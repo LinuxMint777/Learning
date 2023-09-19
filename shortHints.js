@@ -5,7 +5,7 @@
  * 
  * 3. Ternary Operator with logical && and logical || Operator.
  * 
- * 4. Array Method: find, findIndex, filter, slice, splice (mutable), [push,unshift,pop, shift] (mutable), concat, map, reduce.
+ * 4. Array Method: find, findIndex, filter, slice, splice (mutable), [push,unshift,pop, shift] (mutable), concat, map, reduce, copyWithin.
  * 
  * 5. Loop: for, while, do while, for in, for of (Use Object, array, string).
  * 
@@ -26,4 +26,6 @@
  * 13. Tagged Template.
  * 
  * 14. Set and WeakSet use.
+ * 
+ * 15. ES11/ JS2020 - globalThis, BigInt, Optional Chaining {obj, arr}, Nullish Coalescing Operator {logical or operator as like}, Dynamic Import, Promise.allSettled.
  */
