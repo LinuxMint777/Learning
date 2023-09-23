@@ -23,10 +23,16 @@ console.log(number1)
 var LANGUAGE = 'JAVA';
 var language = 'JavaScript'
 function getLanguage(){
-    if(!language){
-        var language = LANGUAGE; // new hoisting create. var first line throw the value
-        language = LANGUAGE; // no new hoisting create
+    // new hoisting create. var language = undefined
+    if(!language){ // this line if(!undefined) => true
+        var language = LANGUAGE; // var language = 'JAVA'
+        // language = LANGUAGE; // no new hoisting create
     }
     return language
 }
 console.log(`I LOVE ${getLanguage()}, global scope: ${language}`)
+
+
+if(!undefined){
+    console.log(true)
+}
