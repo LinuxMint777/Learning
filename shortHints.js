@@ -102,5 +102,9 @@
  * 9. Higher Order Function: Higherorder function are two rules, if statisfy only one or both rules then you called higher order function.
  * Function return another function, function pass by another function arguments.
  * 
- * 10. Asynchornous Javascript: 
+ * 10. Asynchornous Javascript: callback chain heal, promise, promise.all, promise.race, promise.allSettled, aysnc await, try & catch block, then & catch => resolve & reject.
+ * 
+ * 11. Recusion or Recursive Function. [Don't know about this topics]
+ * 
+ * 12. Event Loop: Hip, Call Stack [LIFO], Web API, EVENT LOOP => Render QUEUE [FIFO], Multitask QUEUE [FIFO] - Promise & aysnc await handle, Callback QUEUE [FIFO]
  */
