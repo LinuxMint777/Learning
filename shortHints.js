@@ -7,7 +7,7 @@
  * 
  * 4. Array Method: find, findIndex, filter, slice, splice (mutable), [push,unshift,pop, shift] (mutable), concat, map, reduce, copyWithin.
  * 
- * 5. Loop: for, while, do while, for in, for of (Use Object, array, string).
+ * 5. Loop: for, while, do while, for in, for of (array, string).
  * 
  * 6. Object Default method: Object.keys(), Object.values(), Object.entries()
  * 
@@ -106,5 +106,18 @@
  * 
  * 11. Recusion or Recursive Function. [Don't know about this topics]
  * 
- * 12. Event Loop: Hip, Call Stack [LIFO], Web API, EVENT LOOP => Render QUEUE [FIFO], Multitask QUEUE [FIFO] - Promise & aysnc await handle, Callback QUEUE [FIFO]
+ * 12. Event Loop: Hip, Call Stack [LIFO], Web API, EVENT LOOP => Render QUEUE [FIFO], Microtask QUEUE [FIFO] - Promise & aysnc await handle, Callback QUEUE [FIFO]
+ * 
+ * 13. Primitive Vs Reference Type - assign kora and mutation kora 2 ta different, function er argument hisabe sob somoy variable er reference pass hoy.
+ * 
+ * 14. JavaScript Best Practices.
+ * 
+ * 15. Xhr - new XMLHttpRequest(), xhr.open(method, url), xhr.send(sendingData), xhr.onload = function(){}, xhr.onerror = function(){}, xhr.responseType = 'json', xhr.status, xhr.response
+ * 
+ * 16. Symbol - Symbol unique, symbol singe tone, symbole not accessiable, not deleteable, Array.prototype[incudes], [Symbol.search](value){} use class another.
+ *
+ * 17. Symbol iterator: Symbol.iterator, Symbol iterabol. spred custom itertor String.prototype[Symbol.iterator], Fully new range(start, end, step) iterator.
+ * 
+ * 18. Generator, async generator: 
  */
+
