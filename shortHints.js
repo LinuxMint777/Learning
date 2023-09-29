@@ -123,5 +123,7 @@
  * 19. Currying: every function can be pass only one parameter, currying create steping or partial function. currying converter.
  * 
  * 20. Method Chaining: every method return this keyword then create method chining. example: person.eat().play().read();
+ * 
+ * 21. debounce technique.
  */
 
