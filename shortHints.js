@@ -118,6 +118,10 @@
  *
  * 17. Symbol iterator: Symbol.iterator, Symbol iterabol. spred custom itertor String.prototype[Symbol.iterator], Fully new range(start, end, step) iterator.
  * 
- * 18. Generator, async generator: 
+ * 18. Generator, async generator: *function => yeild; aysnc * function => yeild await; generator function see return keyword then funciton closed;
+ * 
+ * 19. Currying: every function can be pass only one parameter, currying create steping or partial function. currying converter.
+ * 
+ * 20. Method Chaining: every method return this keyword then create method chining. example: person.eat().play().read();
  */
 
