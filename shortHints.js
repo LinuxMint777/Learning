@@ -127,3 +127,19 @@
  * 21. debounce technique.
  */
 
+
+
+
+
+
+
+
+
+
+
+/**
+ * Tips1: remove falsy value in arrary, Convert any value to Boolean, how to rezsize in array, how to flat array from multidimensional array, short conditional key, replace word in string, variable value log effectly way, calculate performance taks operation.
+ * 
+ * Tips2: Swapping one-line, copy clipboard, distructing alias use, get value as data type, remove duplicate from array, compare two array by value, shuffling array, Comma Operator.
+ * 
+ */
