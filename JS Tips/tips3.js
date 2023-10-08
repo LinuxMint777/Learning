@@ -62,6 +62,38 @@
 
 // what will be the output of below code.
 console.log(0.1 + 0.2)
+// floating number add a sob somoy same result naw dite pare bcz decimal er base 10 but computer binaray orthat base 2 te convert kore sob.. ei karone kishu kishu time emon result astei pare.
 
 
 
+
+// // what will be the output of below code.
+// let str = 'Bangladesh'
+
+// console.log(str.constructor)
+// console.log(str.__proto__)
+// console.log(str.__proto__.__proto__)
+// console.log(str.__proto__.__proto__.__proto__)
+
+// let num = 10;
+
+// console.log(num.constructor)
+// console.log(num.__proto__)
+// console.log(num.__proto__.__proto__)
+// console.log(num.__proto__.__proto__.__proto__)
+
+
+
+// make a function when argument are sorted but no loop use.
+function example(){
+    return [].slice.call(arguments).sort((x,y) => x-y)
+}
+let hlw = example(12,4,63,7,43,3,2,9);
+console.log(hlw)
+
+// easy and my code.
+function argumentSort(){
+    return Object.values(arguments).sort((a,b) => a-b)
+}
+let rst = argumentSort(12,4,63,7,43,3,2,9)
+console.log(rst)
