@@ -69,4 +69,45 @@
  * 34. Css Display: {display: block, inline, inline-block, none} {visibility: hidden}
  * 
  * 35. Css Position: {position: static, relative, fixed, absolute} {top, bottom, left, right}
+ *
+ * 36. Css Layer & z-index: {position: relative; z-index: 1;}, {position: relative; z-index: 2;}, {position: relative; z-index: 3;} (must be position: relative, abosulte, fixed) thaktei hbe onnothai z-index kaj korbe nah.
+ * 
+ * 37. float & clear: {float: right}, {float:right; clear: both;} [clear both means sob gulai width khuja bad diye new line theke suru kora]
+ * 
+ * 38.
+ * 
+ * 39.
+ * 
+ * 40.
+ * 
+ * 41.
+ * 
+ * 42.
+ * 
+ * 43.
+ * 
+ * 44.
+ * 
+ * 45.
+ * 
+ * 46.
+ * 
+ * 47.
+ * 
+ * 48.
+ * 
+ * 49.
+ * 
+ * 50.
+ * 
+ * 51.
+ * 
+ * 52.
+ * 
+ * 53.
+ * 
+ * 54.
+ * 
+ * 55.
+ * 
  */
