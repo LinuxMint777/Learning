@@ -1,9 +1,9 @@
 /**
- * 1. Css Introduction: Css => Cascading Style Sheet. (CSS3 - Version), .className {font-size: 16px;} => .className (Selector), font-size (Property Name), 16px (Value)
+ * 1. Css Introduction: Css => Cascading Style Sheet. (CSS3 - Version).
  * 
- * 2. How to Add Css: Inline Css, Internal Css, External Css.
+ * 2. className {font-size: 16px;} => .className (Selector), font-size (Property Name), 16px (Value)
  * 
- * 3. 
+ * 3. How to Add Css: Inline Css, Internal Css, External Css.
  * 
  * 4. Css Selector: #idName,.className, ElementName, #idName .className ElementName ...
  * 
@@ -74,17 +74,17 @@
  * 
  * 37. float & clear: {float: right}, {float:right; clear: both;} [clear both means sob gulai width khuja bad diye new line theke suru kora]
  * 
- * 38.
+ * 38. Css 2D Style: {transform: rotate(45deg), skew(45deg), translate(50px 50px), scale(2); transform-origin: 0% 0% (left-top), 100% 0% (right-top), 100% 100% (right-bottom), 0% 100% (left-bottom) }
  * 
- * 39.
+ * 39. Css 3D Style: {transform: perspective(100px) rotate(0,0,50, 25deg); perspective-origin: 50% 50%}
  * 
- * 40.
+ * 40. Css transition: {transition: propety duration timing-fuc dealy;} {transition-property: width; transition-duration: 0.5s; transition-dealy: 2s; transition-timing-function: ease-in-out}
  * 
- * 41.
+ * 41. Css animation: {animation-name: name; animation-duration: 2s; animation-iteration-count: 5; animation-dealy: 2s; animation-direction: reverse; animation-timing-function: ease-in-out} @keyframes animationName{from{} to{}}; @keyframes animationName{0{} 25%{} 50%{} 76%{} 100%{}}
  * 
- * 42.
+ * 42. Css print style: @media screen{}; @media print{}
  * 
- * 43.
+ * 43. Responsive Web Design: 
  * 
  * 44.
  * 
