@@ -84,30 +84,30 @@
  * 
  * 42. Css print style: @media screen{}; @media print{}
  * 
- * 43. Responsive Web Design: 
+ * 43. Css Responsive Web Design: Mobile First Design. 
  * 
- * 44.
+ * 44. HTML Viewport: include add html file in <meta name="viewport" content="width=device-width, initial-scale=1.0">
  * 
- * 45.
+ * 45. Css Media Query: @media screen and (max-width: 776px){} - Media Query Shikhe tarport Css framework shikha ucit.
  * 
- * 46.
+ * 46. Css Advanced Selector: Type/Tag/Element Selector [h2{}], ID Selectior[#myId{}], Class Selector[.className{}], Pseudo Class and Pseudo Element[a:active{}, .className::before{}], Attributes Selector (a[href="www.google.com"]{}, input[type="text"]{}), * Universal Selector [* {margin:0; padding:0; box-sizing:border-box}], Combinator Selector: decendant combinatory [.className span{}], child combinatory [.className > span{}], adjacent combinatory (left right sibling) [.className + h2{}], general sibling combinatory (all sibling) [.className ~ h2{}], And selector [.className, h2{}]
  * 
- * 47.
+ * 47. Css Specificity: More Specific rule will get more value. Css kon rule ta follow korbe seitai holo specificity. General Rule: 1. !important will override everything. 2. inline css can override everything without only !important. 3. External will work according to specificity.
+ * specificity rule: 1. #ID is highest priority. 2. * Universal is lowest priority.
+ *   => 10000 point (!important)
+ *   => 1000  point (inline css)
+ *   => 100   point (#ID)
+ *   => 10    point (.className, attributes input[type="text"], PesudoClass a:active)
+ *   => 1     point (TagName/Element selectior, Pesudo elements h2::after)
+ *   => 0     point (* Universal Selector)
+ *   => your write same rule 2 line then css file execute last line.
  * 
- * 48.
+ * 48. Multiple Column in Css: {column-count: 3; column-rule: 1px solid #ddd; column-gap: 50px; column-width: 300px;} {column-span: all}
  * 
  * 49.
  * 
  * 50.
  * 
- * 51.
- * 
- * 52.
- * 
- * 53.
- * 
- * 54.
- * 
- * 55.
+ * 51. Css Validator: 
  * 
  */
