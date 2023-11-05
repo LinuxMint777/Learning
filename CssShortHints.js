@@ -104,9 +104,9 @@
  * 
  * 48. Multiple Column in Css: {column-count: 3; column-rule: 1px solid #ddd; column-gap: 50px; column-width: 300px;} {column-span: all}
  * 
- * 49.
+ * 49. Css Flex: flex-container{display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; algin-content: space-between; align-items: center;} flex-items{order: 3; flex-grow: 1; flex-shirink: 1; flex-basis: 300px} -- shortform {flex-flow: direction wrap;} {flex: grow shirink basis}
  * 
- * 50.
+ * 50. Css Grid: 
  * 
  * 51. Css Validator: 
  * 
