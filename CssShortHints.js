@@ -106,7 +106,7 @@
  * 
  * 49. Css Flex: flex-container{display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-evenly; algin-content: space-between; align-items: center;} flex-items{order: 3; flex-grow: 1; flex-shirink: 1; flex-basis: 300px} -- shortform {flex-flow: direction wrap;} {flex: grow shirink basis}
  * 
- * 50. Css Grid: 
+ * 50. Css Grid: grid-container{display: grid; grid-template-column: 1fr auto 1fr; grid-template-column: repeat(3, 1fr); grid-template-row: repeat(3, 1fr); grid-gap: 5px; grid-template: row / columns; grid-template-areas: 'hhhh'; grid-template-column: repeat(auto-fit, minmax(200px, 1fr)); grid-tempalte-rows: repeat(2, 1fr); grid-auto-rows: 1fr; justify-content: center; align-content: center; aling-items: center; grid-auto-flow: dense} grid-items{grid-column: 1 / -1; grid-column: 1 / span 3; grid-row: 1 / -2; grid-area: aName}
  * 
  * 51. Css Validator: 
  * 
